@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Neural Networks | Quantum Machine Learning Tutorial</title>
+    <link>https://qml-tutorial.github.io/docs/chapter4/</link>
+      <atom:link href="https://qml-tutorial.github.io/docs/chapter4/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantum Neural Networks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://qml-tutorial.github.io/media/logo.svg</url>
+      <title>Quantum Neural Networks</title>
+      <link>https://qml-tutorial.github.io/docs/chapter4/</link>
+    </image>
+    
+  </channel>
+</rss>

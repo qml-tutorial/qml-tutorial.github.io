@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transformer | Quantum Machine Learning Tutorial</title>
+    <link>https://qml-tutorial.github.io/docs/chapter5/</link>
+      <atom:link href="https://qml-tutorial.github.io/docs/chapter5/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transformer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://qml-tutorial.github.io/media/logo.svg</url>
+      <title>Transformer</title>
+      <link>https://qml-tutorial.github.io/docs/chapter5/</link>
+    </image>
+    
+  </channel>
+</rss>
